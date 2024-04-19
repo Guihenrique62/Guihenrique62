@@ -27,3 +27,4 @@
   
 ## Comits
   ![Snake animation](https://github.com/Guihenrique62/Guihenrique62/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Guihenrique62/Guihenrique62/blob/output/github-contribution-grid-snake.gif)
