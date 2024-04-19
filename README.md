@@ -10,7 +10,7 @@
  
 🌱 I’m currently learning **Prisma, Docker**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Guihenrique62/Guihenrique62/issues)**
+💬 Ask me about **Node.js, React, Figma... or anything [here](https://github.com/Guihenrique62/Guihenrique62/issues)**
 
 ⚡ Fun fact **In the movie "The Matrix", the codes that appear falling on the screen are, in fact, modified sushi recipes**
 
