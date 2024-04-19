@@ -1,28 +1,46 @@
-## Olá! Eu sou o Guilherme Henrique
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guilherme+henrique!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Brazil </h3>
+
+<br/>
+
+<div align="center">
+ 
+🌱 I’m currently learning **Prisma, Docker**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Guihenrique62/Guihenrique62/issues)**
+
+⚡ Fun fact **In the movie "The Matrix", the codes that appear falling on the screen are, in fact, modified sushi recipes**
+
+ </div>
+
+ <div align="center">
+  <a href="https://portfolio-delta-drab-91.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+  <a href="https://mailto:guilhermeportosantos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/GuiHenriquePorto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,figma,git,babel,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nextjs,python,fastapi,mongodb,mysql,sqlite,prisma" /><br>
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
 
 <div align="center">
   <a href="https://github.com/Guihenrique62">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Guihenrique62&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guihenrique62&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div>  
+    
   
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-  
-  #
-  
-<div>
-  <a href="https://instagram.com/guiporto062" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://mailto:guilhermeportosantos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/GuiHenriquePorto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
   
 
