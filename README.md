@@ -7,12 +7,8 @@
 <br/>
 
 <div align="center">
- 
-🌱 I’m currently learning **Prisma, Docker**
 
-💬 Ask me about **Node.js, React, Figma... or anything [here](https://github.com/Guihenrique62/Guihenrique62/issues)**
-
-⚡ Fun fact **In the movie "The Matrix", the codes that appear falling on the screen are, in fact, modified sushi recipes**
+💬 Ask me about **Node.js, React, Next.js... or anything [here](https://github.com/Guihenrique62/Guihenrique62/issues)**
 
  </div>
 
@@ -27,8 +23,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,figma,git,babel,postman,vercel" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nextjs,python,fastapi,mongodb,mysql,sqlite,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,figma,git,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,nextjs,python,mysql,prisma" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
