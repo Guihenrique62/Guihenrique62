@@ -23,8 +23,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,figma,git,postman,vercel" />
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,nextjs,python,mysql,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,react,figma,vercel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,python,prisma" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
