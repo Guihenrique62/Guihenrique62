@@ -27,9 +27,7 @@
 [![Gmail](https://img.shields.io/badge/-gabrielleribeiro2010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielleribeiro2010@gmail.com)](mailto:gabrielleribeiro2010@gmail.com)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/gabbiribas)
   
-  
-![Snake animation](https://github.com/Guihenrique62/Guihenrique62/blob/output/github-contribution-grid-snake.svg)
-  
+    
 <!--
 **Guihenrique62/Guihenrique62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
