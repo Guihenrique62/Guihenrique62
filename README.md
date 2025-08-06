@@ -1,8 +1,17 @@
-### ✨ Hi there, I'm Guilherme! ✨
-- Software Engineering Student at the University of Brasilia - UnB.
-- Passionate about programming, machine learning, data science and robotics.
-- Member of a competition team, EDRA-UnB ❤️, which develops autonomous drones. In it I work mainly with computer vision.
-- Intern at Alura | Scuba Team Semente. 💙🚀
+### ✨ Hi there, I'm Guilherme Henrique! ✨
+
+- 🎓 Graduated in Systems Analysis and Development (Estácio - GO)  
+- 💻 Developer passionate about building functional, fast, and beautiful applications  
+
+- 📦 Currently working with automation and developing systems in real-world business contexts  
+- 👨‍💻 Experienced with Node.js, Next.js, Django, RPA, PostgreSQL, and more  
+
+- 🌱 Constantly learning and building new projects – from e-commerce systems to productivity apps  
+
+- 📍 Based in Goiânia, Brazil  
+
+> I believe in the power of code to change realities and bring ideas to life. Let's build something amazing together!
+
 
 ## Languages e Tools 💻
 <div align="center">
@@ -14,7 +23,7 @@
 <div>
   <a href="https://github.com/Guihenrique62">
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guihenrique62&show_icons=true&theme=radical&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guihenrique62&show_icons=true&theme=radical&include_all_commits=true&hide=stars" />
 
   </center>
   <center>  
