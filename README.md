@@ -32,17 +32,11 @@
 
 ## Reach me 📫
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielleribeiro/">
+  <a href="https://www.linkedin.com/in/guihenriqueporto/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gabbiribas/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielleribeiro2010@gmail.com">
+  <a href="mailto:guilhermeportosantos1@gmail.com">
     <img src="https://img.shields.io/badge/-gabrielleribeiro2010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.duolingo.com/profile/gabbiribas">
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />
   </a>
 </p>
 
