@@ -22,7 +22,7 @@
 ## GitHub Stats ⚡
 <div align="center">
   <a href="https://github.com/Guihenrique62" target="_blank">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Guihenrique62&show_icons=true&theme=radical&include_all_commits=true&hide=stars&count_private=true" alt="GitHub Stats" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Guihenrique62&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/Guihenrique62" target="_blank">
