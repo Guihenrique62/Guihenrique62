@@ -56,20 +56,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
-
----
-
-### 📊 GitHub Analytics ###
-
-<div align="center">
-  <a href="https://github.com/Guihenrique62">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guihenrique62&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guihenrique62&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=CSS,SCSS,HTML&langs_count=6" />
-  </a>
-</div>
-
----
-
 ### 🌟 Highlights ###
 
 - 🔧 **Process Automation**: Reduced manual reporting time by 40%
