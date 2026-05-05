@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me ###
 
 🎓 Systems Analysis & Development Graduate  
-⭐ 2+ years crafting full-stack applications  
+⭐ 3+ years crafting full-stack applications  
 🛠️ Passionate about clean code and scalable architecture  
 🤖 Automation enthusiast & problem solver  
 
